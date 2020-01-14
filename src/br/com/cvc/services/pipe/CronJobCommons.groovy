@@ -1,7 +1,9 @@
 package br.com.cvc.services.pipe    
 
 
-def test(){
+def teste(){
 
         println("Running script from cronjob lib")
 }
+
+return this
